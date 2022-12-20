@@ -156,8 +156,7 @@ html{
 }
 
 .half-page{
-  padding-top: 2.5%;
-  padding-bottom: 2.5%;
+  padding: 2.5% 0 2.5% 2.5%;
   flex-basis: 50%;
 }
 
